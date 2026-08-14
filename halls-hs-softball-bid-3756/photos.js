@@ -1,1 +1,25 @@
-window.PHOTOS=[{"src":"photos/01.jpg","cap":"Field cover (tarp) + fence area to be removed"},{"src":"photos/02.jpg","cap":"Fence line continuation to parking — drainage alternate route"},{"src":"photos/03.jpg","cap":"Area out front where alternate drainage ties in"},{"src":"photos/04.jpg","cap":"Storage building to be moved to parking/outfield area"},{"src":"photos/05.jpg","cap":"Main gate to be moved; power poles visible (utility relocation)"},{"src":"photos/06.jpg","cap":"Field overview; sprinkler system to move to foul line/warning track edge"},{"src":"photos/07.jpg","cap":"Foul line / trap area; building sits on existing fence line; red tops salvaged; no work left side toward first base"},{"src":"photos/08.jpg","cap":"Foul line / trap area; building sits on existing fence line; red tops salvaged; no work left side toward first base"},{"src":"photos/09.jpg","cap":"Foul line / trap area; building sits on existing fence line; red tops salvaged; no work left side toward first base"},{"src":"photos/10.jpg","cap":"Warning track toward home plate; track continues at building fence side"},{"src":"photos/11.jpg","cap":"Warning track toward home plate; track continues at building fence side"},{"src":"photos/12.jpg","cap":"Back side of batting cage = building footprint; utilities corridor"},{"src":"photos/13.jpg","cap":"Back side of batting cage = building footprint; utilities corridor"},{"src":"photos/14.jpg","cap":"Back side of batting cage = building footprint; utilities corridor"},{"src":"photos/15.jpg","cap":"Utility close-ups (corridor beside building); outer-bound fence REMAINS (school boundary)"},{"src":"photos/16.jpg","cap":"Utility close-ups (corridor beside building); outer-bound fence REMAINS (school boundary)"},{"src":"photos/17.jpg","cap":"Utility close-ups (corridor beside building); outer-bound fence REMAINS (school boundary)"},{"src":"photos/18.jpg","cap":"Parking/entrance: only entrance, rear (north) side; trucks on asphalt hill"},{"src":"photos/19.jpg","cap":"Parking/entrance: only entrance, rear (north) side; trucks on asphalt hill"},{"src":"photos/20.jpg","cap":"Drainage area + house relocation spot; storm drain near white double-wide, ~center field — LONG pull for Alternate 01"},{"src":"photos/21.jpg","cap":"Drainage area + house relocation spot; storm drain near white double-wide, ~center field — LONG pull for Alternate 01"},{"src":"photos/22.jpg","cap":"Overall building area + power pole + utilities"},{"src":"photos/23.jpg","cap":"Overall building area + power pole + utilities"}];
+window.PHOTOS=[
+{"src":"photos/01.jpg","cap":"Field cover (tarp) staged along the fence at the field-house corner — tarp and this fence section to be relocated to the far side of the field and boxed in with the existing/salvaged fence"},
+{"src":"photos/02.jpg","cap":"Outfield fence line looking toward the school — field cover (tarp) rolled on the drainage pipe"},
+{"src":"photos/03.jpg","cap":"View across the field toward the school building and scoreboard; field cover (tarp) at left"},
+{"src":"photos/04.jpg","cap":"Red portable building on gravel (building to be relocated); covered structure and pre-bid group at right"},
+{"src":"photos/05.jpg","cap":"Pre-bid walkthrough at the covered structure; parking and outbuildings beyond"},
+{"src":"photos/06.jpg","cap":"Field looking toward the field house and brick dugout"},
+{"src":"photos/07.jpg","cap":"Foul line looking toward the covered pavilion and outbuildings"},
+{"src":"photos/08.jpg","cap":"Open outfield turf looking toward the brick dugout"},
+{"src":"photos/09.jpg","cap":"Existing in-ground utility/valve box at the fence line"},
+{"src":"photos/10.jpg","cap":"Outfield warning track along the fence (205 ft marker)"},
+{"src":"photos/11.jpg","cap":"Outfield turf looking toward the field house"},
+{"src":"photos/12.jpg","cap":"Grass strip between the covered structure and the perimeter fence"},
+{"src":"photos/13.jpg","cap":"Existing covered batting cage; utility service pole at left"},
+{"src":"photos/14.jpg","cap":"Existing electrical service panel on the pole"},
+{"src":"photos/15.jpg","cap":"Existing electric meter"},
+{"src":"photos/16.jpg","cap":"Overhead power service and transformer feeding the covered structure"},
+{"src":"photos/17.jpg","cap":"Gravel access drive and gate — construction entrance"},
+{"src":"photos/18.jpg","cap":"West side — grass strip between parking and the outfield fence"},
+{"src":"photos/19.jpg","cap":"White building — existing storm drain at the base (at the nose of the car)"},
+{"src":"photos/20.jpg","cap":"Rear of the field scoreboard; parking beyond"},
+{"src":"photos/21.jpg","cap":"Existing utilities — pedestal and valve box at the fence line"},
+{"src":"photos/22.jpg","cap":"Rear of the scoreboard with utility pedestal at base"},
+{"src":"photos/23.jpg","cap":"West boundary — grass between the outfield fence and parking"}
+];
