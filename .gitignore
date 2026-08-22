@@ -1,0 +1,6 @@
+# Local editor/OneDrive artifacts - never publish
+*.bak_preaddenda
+*.bak
+~$*
+.DS_Store
+Thumbs.db
